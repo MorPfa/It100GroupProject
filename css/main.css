@@ -1,0 +1,26 @@
+body {
+    background-image: url("/images/pexels-emmet-128421.jpg");
+    /* background-color: aqua; */
+}
+
+
+h1 {
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    line-height: 15rem;
+    font-size: clamp(2rem, 3vw , 4.2rem);
+    
+}
+
+.navbar-nav {
+    font-size: 1.4rem !important;
+}
+
+
+.mainbuttons {
+    text-align: center;
+    padding: 5px;
+    
+
+}
