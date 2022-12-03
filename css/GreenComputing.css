@@ -1,8 +1,41 @@
 #GreenComputing {
-    background-image: url("../images/pexels-emmet-128421.jpg");
-
+  background-image: url("../images/pexels-emmet-128421.jpg");
+}
+.RecyclingText {
+  text-align: center;
+  margin: 1rem;
+  font-weight: 700;
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
+.RecyclingTable {
+  border: solid;
+  margin: 2rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: black;
+  backdrop-filter: blur(1rem);
 }
 
+.HardriveInfoHeader {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: black;
+}
+
+.HarddriveBackground {
+  backdrop-filter: blur(0.5rem);
+}
+
+.HarddriveList {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: black;
+}
+.Row {
+  border: solid;
+}
 .navbar-nav {
-    font-size: 1.4rem !important;
+  font-size: 1.4rem !important;
 }
