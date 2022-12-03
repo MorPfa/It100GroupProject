@@ -1,6 +1,17 @@
 #GreenComputing {
   background-image: url("../images/pexels-emmet-128421.jpg");
+  background-size: cover;
 }
+.RC-Pos {
+  margin: 2rem;
+  position: relative;
+  top: 2rem;
+}
+
+.RecyclingCitation {
+  float: left;
+}
+
 .RecyclingText {
   text-align: center;
   margin: 1rem;
@@ -25,7 +36,10 @@
 }
 
 .HarddriveBackground {
-  backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(1rem);
+  margin: 2rem;
+  border: solid;
+  color: black;
 }
 
 .HarddriveList {
