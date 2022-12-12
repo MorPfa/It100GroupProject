@@ -6,6 +6,7 @@
     background-attachment: fixed;
     background-size: 100% 60rem;
     background-repeat: no-repeat;
+    background-position-y: -1rem;
   }
 
   textarea {
@@ -13,7 +14,7 @@
     background-color: rgba(165, 170, 170, 0);
     position: relative;
     top: 5rem;
-    right: -40rem;
+    right: -30rem;
     width: 40rem;
     height: 10rem;
   }
