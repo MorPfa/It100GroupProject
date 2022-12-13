@@ -12,9 +12,9 @@
   textarea {
     border: solid;
     background-color: rgba(165, 170, 170, 0);
-    position: relative;
-    top: 1rem;
-    right: -30rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 40rem;
     height: 10rem;
   }
@@ -126,9 +126,9 @@
   textarea {
     border: solid;
     background-color: rgba(165, 170, 170, 0);
-    position: relative;
-    top: 5rem;
-    right: -40rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 40rem;
     height: 10rem;
   }
@@ -237,9 +237,9 @@
   textarea {
     border: solid;
     background-color: rgba(165, 170, 170, 0);
-    position: relative;
-    right: -4rem;
-    width: 25rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 10rem;
   }
 
@@ -348,8 +348,9 @@
   textarea {
     border: solid;
     background-color: rgba(165, 170, 170, 0);
-    position: relative;
-    right: -4rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 25rem;
     height: 10rem;
   }
