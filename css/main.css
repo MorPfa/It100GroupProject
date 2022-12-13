@@ -1,5 +1,5 @@
 /* DESKTOP */
-@media all and (min-width: 1200px) {
+@media all and (min-width: 1281px) {
   body {
     background-image: url("../images/Website\ front\ \(graded\).JPG");
     background-attachment: fixed;
@@ -30,7 +30,7 @@
 }
 
 /* Laptop */
-@media all and (min-width: 950px) and (max-width: 1199px) {
+@media all and (min-width: 1025px) and (max-width: 1280px) {
   body {
     background-image: url("../images/Website\ front\ \(graded\).JPG");
     background-attachment: fixed;
