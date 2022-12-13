@@ -21,21 +21,21 @@
     font-weight: 700;
     font-size: 1.55rem;
     margin-bottom: 2rem;
-    color: black;
+    color: white;
   }
   .RecyclingTable {
     border: solid;
     margin: 2rem;
     font-size: 1.3rem;
     font-weight: 700;
-    color: black;
+    color: white;
   }
 
   .HardriveInfoHeader {
     text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
-    color: black;
+    color: white;
   }
 
   .HarddriveBackground {
@@ -46,7 +46,7 @@
   .HarddriveList {
     font-size: 1.5rem;
     font-weight: 500;
-    color: black;
+    color: white;
   }
   .Row {
     border: solid;
@@ -55,7 +55,7 @@
     font-size: 1.4rem !important;
   }
   .nav-item {
-    color: #000;
+    color: white;
   }
 }
 /* Laptop */
